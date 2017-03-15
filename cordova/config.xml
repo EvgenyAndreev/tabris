@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="example.tabris" version="0.1.0">
+  <name>Tabris</name>
+  <description>
+    Example Tabris.js App
+  </description>
+  <author email="e@bcode.org">
+    Evgeny Andreev
+  </author>
+</widget>
